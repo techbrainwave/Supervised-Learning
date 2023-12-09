@@ -1,37 +1,42 @@
-* Assignment 01 - Supervised Learning *
+## 01 - Supervised Learning *
 
-****************************************
-Instructions:
-****************************************
-1. Go to URL: https://github.com/techbrainwave/CS7641-ML-Fall22-01-SupervisedLearning
+### Algorithms
+
+1. Decision Tree 
+2. Multi-layer Perceptron (Neural Network)
+3. AdaBoost Decision Tree
+4. Support Vector Machines
+5. K-Nearest Neighbors
+
+### Problems
+1. Cancer detection
+2. Raisin class
+
+### Metrics
+1. Accuracy
+2. Recall
+3. Log Loss
+
+### Plots
+1. Learning curve
+2. Validation curve
+
+### Instructions
+
+1. URL: https://github.com/techbrainwave/CS7641-ML-Fall22-01-SupervisedLearning
 2. Click on "Code" 
 3. Click on "Download ZIP"
 4. Unzip the files
 5. Run the python file experiment1.py
 6. Run the python file experiment2.py
 
+Results
 
-****************************************
-Results:
-****************************************
 1. All results will be printed to the console including scores and execution times.
 2. All the 48 graphs will be generated directly in the repository once the files are run successfully.
 
+References 
 
-****************************************
-Repository contents:
-****************************************
-experiment1.py
-experiment2.py
-	|--data/
-			haberman.data
-			Raisin_Dataset.csv
-
-
-
-********************************************************************************************************************************
-References used:
-********************************************************************************************************************************
 1.	Machine Learning - Tom M. Mitchell, McGrawHill.
 2.	Data Science for Business, by Foster Provost, Tom Fawcett
 3.	http://archive.ics.uci.edu/ml/datasets/Raisin+Dataset
