@@ -8,7 +8,7 @@
 4. Support Vector Machines
 5. K-Nearest Neighbors
 
-### Problems
+## Problems
 1. Cancer detection
 2. Raisin class
 
@@ -17,9 +17,11 @@
 2. Recall
 3. Log Loss
 
-### Plots
+## Plots
 1. Learning curve
 2. Validation curve
+
+![](https://github.com/techbrainwave/CS7641-ML-Fall22-01-SupervisedLearning/blob/main/data/1Chart_svm_VC2.png)
 
 ### Instructions
 
@@ -30,12 +32,12 @@
 5. Run the python file experiment1.py
 6. Run the python file experiment2.py
 
-Results
+## Results
 
 1. All results will be printed to the console including scores and execution times.
 2. All the 48 graphs will be generated directly in the repository once the files are run successfully.
 
-References 
+### References 
 
 1.	Machine Learning - Tom M. Mitchell, McGrawHill.
 2.	Data Science for Business, by Foster Provost, Tom Fawcett
