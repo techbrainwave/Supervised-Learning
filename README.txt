@@ -3,7 +3,7 @@
 ****************************************
 Instructions:
 ****************************************
-1. Go to URL: https://github.com/techmost/CS7641-ML-Fall22-01-SupervisedLearning
+1. Go to URL: https://github.com/techbrainwave/CS7641-ML-Fall22-01-SupervisedLearning
 2. Click on "Code" 
 3. Click on "Download ZIP"
 4. Unzip the files
