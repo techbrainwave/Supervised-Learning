@@ -1,4 +1,4 @@
-## 01 - Supervised Learning *
+## 01 - Supervised Learning
 
 ### Algorithms
 
