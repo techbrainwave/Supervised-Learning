@@ -26,9 +26,9 @@
 
 ## Instructions
 
-1. URL: https://github.com/techbrainwave/CS7641-ML-Fall22-01-SupervisedLearning
-2. Click on "Code" 
-3. Click on "Download ZIP"
+1. Go to ![repo](https://github.com/techbrainwave/CS7641-ML-Fall22-01-SupervisedLearning).
+2. Click on `Code`
+3. Click on `Download ZIP`
 4. Unzip the files
 5. Run the python file experiment1.py
 6. Run the python file experiment2.py
